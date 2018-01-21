@@ -1,3 +1,7 @@
+Repo Modifications
+==================
+* Add support ot sending packets with siez greater than 16#ffffff
+
 MySQL/OTP
 =========
 
